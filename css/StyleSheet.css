@@ -1,0 +1,119 @@
+
+body 
+{
+	margin-top:0px;
+	font-family:Verdana, Arial, Arial Narrow, Sans-Serif;
+	font-size:11px;
+	/*background-color:#fff;*/
+	height:auto !important;
+	height: 100%;
+	min-height:100%;
+}
+
+.menu 
+{
+	font-family:Arial, Arial Narrow, Verdana, Sans-Serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000;
+	text-align:center;
+	text-transform:uppercase;
+	}
+
+.menu a {color:#37444c; text-decoration:none;}
+.menu a:visited {color:#37444c; text-decoration:none;}
+.menu a:hover {color:#00adef; text-decoration:none;}
+
+a {color:#000; text-decoration:underline;}
+a:visited {color:#000; text-decoration:underline;}
+a:hover {color:#00adef; text-decoration:none;}
+	
+h1 
+{
+	font-family:Arial, Arial Narrow, Verdana, Sans-Serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#00adef;/*336699;*/
+	padding-left:32px;
+	padding-top:12px;
+	}
+	
+.master_logo
+{
+/*	background-image: url(images/hisoft_header_bg.jpg);
+	background-position:right;
+	background-repeat:repeat;
+*/
+	}
+	
+.master_menu
+{
+	/*border:solid 1px #00adef;*//*38434a*/
+	border-top:solid 1px #00adef;
+	border-left:solid 1px #00adef;
+	border-right:solid 1px #00adef;
+	border-bottom:solid 1px #00adef;
+	width:760px;
+	background-color:#fff;
+	/*
+	background: url(images/hisoft_menu.gif) repeat-x; 
+    height:30px;
+	*/
+	}	
+.master_content	
+{
+	/*border:solid 1px #eeeeee;*/
+	border-top:solid 1px #fff;
+	border-left:solid 1px #eeeeee;
+	border-right:solid 1px #eeeeee;
+	border-bottom:solid 1px #eeeeee;
+	width:720px;
+	padding:0px;
+	text-align:justify;
+	background-color:#fafafa;
+	height:100%;/*420px;*/
+	}
+
+.container
+{
+	width:759px;
+	/*float:left;*/
+	padding-left:0px;
+	height:100%;
+	/*border:none 1px red;*/
+	border-top:solid 1px #fff;
+	border-left:solid 1px #eeeeee;
+	border-right:solid 1px #eeeeee;
+	border-bottom:solid 1px #eeeeee;
+	background-color:#fafafa;/*cccccc*/
+	}
+
+.content
+{
+	width:388px;
+	/*float:left;*/
+	padding-left:32px;
+	padding-right:20px;
+	padding-bottom:20px;
+	height:100%;
+	/*border:none 1px black;*/
+	vertical-align:top;
+	}
+		
+.rotating_image
+{
+	/*float:right;*/
+	width:300px;
+	height:100%;
+	vertical-align:top;
+	}
+	
+	
+.footer
+{
+	font-family:Verdana, Arial, Arial Narrow, Sans-Serif;
+	color:#999999;
+	font-size:9px;
+	text-align:right;
+}
+	
